@@ -8,4 +8,7 @@ The college and the organsier can list their event on this platform and the team
 HTML, CSS and JavaScript is used for frontend and for connecting frontend to databases(MySql) PHP is used.
 
 
+![Preview](https://github.com/aksuman055/Sports-Events-Listing/blob/master/SQL%20Queries/priview.jpg)
+
+
 
